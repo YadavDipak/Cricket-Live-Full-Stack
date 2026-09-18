@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 
-
+// Logic for fetching live cricket matches can be added here in the future.
 function App() {
   return (
     <div className="min-h-screen bg-slate-950 flex items-center justify-center">
